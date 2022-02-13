@@ -1,0 +1,16 @@
+\\Mac\Home\Desktop\Hospital\Hospital\bin\Debug\Hospital.exe.config
+\\Mac\Home\Desktop\Hospital\Hospital\bin\Debug\Hospital.exe
+\\Mac\Home\Desktop\Hospital\Hospital\bin\Debug\Hospital.pdb
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\MainWindow.g.cs
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\App.g.cs
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital_MarkupCompile.cache
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital_MarkupCompile.lref
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\MainWindow.baml
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.g.resources
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.exe
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.pdb
