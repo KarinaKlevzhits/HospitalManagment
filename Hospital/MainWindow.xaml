@@ -5,8 +5,36 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Hospital"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800">
+        Title="MainWindow" Height="500" Width="400">
     <Grid Margin="-189,0,-308,0">
-        
+        <Rectangle HorizontalAlignment="Left" Height="118" Margin="188,0,0,0" VerticalAlignment="Top" Width="401" Fill="#FFD5EDAA"/>
+        <Image HorizontalAlignment="Left" Height="100" Margin="300,10,0,0" VerticalAlignment="Top" Width="176" Source="/20-logo.png"/>
+        <Label Content="Логин" HorizontalAlignment="Left" Margin="275,189,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI Symbol" FontWeight="Bold" Width="87" Height="36" Foreground="#FF73B6EE"/>
+        <Label Content="Пароль" HorizontalAlignment="Left" Margin="276,260,0,0" VerticalAlignment="Top" FontSize="20" FontFamily="Segoe UI Symbol" FontWeight="Bold" Width="86" Foreground="#FF73B6EE"/>
+        <TextBox HorizontalAlignment="Left" Margin="276,230,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="223" Height="30"/>
+        <TextBox HorizontalAlignment="Left" Margin="276,302,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="223" Height="30"/>
+        <ComboBox HorizontalAlignment="Left" Margin="276,163,0,0" VerticalAlignment="Top" Width="221" RenderTransformOrigin="0.5,0.5" Height="20" BorderBrush="#FFF3EEEE">
+            <ComboBox.Background>
+                <LinearGradientBrush EndPoint="0,1">
+                    <GradientStop Color="#FFF0F0F0"/>
+                    <GradientStop Color="#FF681414" Offset="1"/>
+                </LinearGradientBrush>
+            </ComboBox.Background>
+            <ComboBox.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform/>
+                    <RotateTransform Angle="0.229"/>
+                    <TranslateTransform/>
+                </TransformGroup>
+            </ComboBox.RenderTransform>
+            <ComboBoxItem Content="Администратор"/>
+            <ComboBoxItem Content="Доктор"/>
+            <ComboBoxItem Content="Регистратор"/>
+        </ComboBox>
+        <Button Content="Войти" HorizontalAlignment="Left" Margin="331,379,0,0" VerticalAlignment="Top" Height="32" Width="114" Background="#FFD5EDAA" ClickMode="Press" FontSize="16" FontWeight="Bold"/>
+        <Label Content="Повторить" HorizontalAlignment="Left" Margin="346,416,0,0" VerticalAlignment="Top" RenderTransformOrigin="0.926,-0.145" Height="42" Width="99" FontSize="16" Foreground="#FF73B6EE" FontWeight="Bold"/>
+        <Image HorizontalAlignment="Left" Height="28" Margin="533,10,0,0" VerticalAlignment="Top" Width="42" Source="/icons8-macos-закрыть-32.png"/>
+
     </Grid>
 </Window>
