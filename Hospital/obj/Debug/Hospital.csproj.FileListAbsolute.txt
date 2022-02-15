@@ -14,3 +14,7 @@
 \\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.csproj.CoreCompileInputs.cache
 \\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.exe
 \\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Hospital.pdb
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Homes.g.cs
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Patients.g.cs
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Homes.baml
+\\Mac\Home\Desktop\Hospital\Hospital\obj\Debug\Patients.baml
